@@ -17,7 +17,7 @@ The dataset was obtained from CryptoCompare.
 
 - Delete the CoinName from the original dataframe.
 
-- Cnvert the remaining features with text values, Algorithm and ProofType, into numerical data. 
+- Convert the remaining features with text values, Algorithm and ProofType, into numerical data. 
 
 - Standardize the dataset so that columns that contain larger values do not unduly influence the outcome.
 
